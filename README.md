@@ -207,7 +207,10 @@ while True:
 ```
 ![gambar9](ss/ss5.png)
 
+
 9. **Menampilkan hasil output**
+berikut code program jika dijalankan :
+
 ![gambar11](ss/ss7.png)
 ![gambar12](ss/ss8.png)
 ## sekian dan terima kasih
