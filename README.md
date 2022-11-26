@@ -2,7 +2,7 @@
 
 ### TugasLatihan 5 
 
-![gambar1](ss/ssd1.PNG)
+![gambar1](ss/ssd1.png)
 
 ## Source Code Latihan 5
 ```python
